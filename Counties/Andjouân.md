@@ -1,33 +1,36 @@
 ---
-location: [ -12.2 , 44.4 ] 
+location:
+  - -12.2
+  - 44.4
 type: geo-Region
 title: Andjouân
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Andjouân
-
+  - Andjouân
+  - Ndzuani
+  - Ndzuwani
+  - Nzwani
+  - Anjouan
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
 linkTitle: 
 keywords: 
 layout: 
 publishDate: 
-expiryDate: 
+expiryDate:
 ---
 
-# Andjouân
+# [[Andjouân]] 
 
 ```leaflet
 id: Andjouân

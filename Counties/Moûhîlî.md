@@ -1,30 +1,30 @@
 ---
-location: [ -12.3 , 43.7 ] 
+location:
+  - -12.3
+  - 43.7
 type: geo-Region
 title: Moûhîlî
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Moûhîlî
-
+  - Moûhîlî
+  - Mohéli
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
 linkTitle: 
 keywords: 
 layout: 
 publishDate: 
-expiryDate: 
+expiryDate:
 ---
 
 # Moûhîlî
@@ -34,6 +34,7 @@ id: Moûhîlî
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
+defaultZoom: 14 
 geojsonFolder: ./Moûhîlî/
 markerFolder: ./Moûhîlî/
 ```
