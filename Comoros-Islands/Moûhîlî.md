@@ -15,6 +15,7 @@ tags:
 aliases:
   - Moûhîlî
   - Mohéli
+  - Mwali
 Languages:
   - de
 cssclasses:
