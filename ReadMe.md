@@ -21,7 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- COM
 - Comoros
 - Comoras
 - Comores
