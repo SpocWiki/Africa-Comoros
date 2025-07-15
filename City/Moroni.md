@@ -1,4 +1,4 @@
-﻿---
+---
 location: [43.25,-11.7] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Comoros/City/Moroni|Moroni]] 
-- [[../../../../../../_public/geo/Continent/Africa/Comoros/City/Moroni.public|Moroni.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Comoros/City/Moroni.internal|Moroni.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Comoros/City/Moroni.protect|Moroni.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Comoros/City/Moroni.private|Moroni.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Comoros/City/Moroni.personal|Moroni.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Comoros/City/Moroni.secret|Moroni.secret]] 
+
+### #is_/same_as :: [Moroni](/_Standards/Earth/Continent/Africa/Africa~East/Comoros/City/Moroni.md) 
+
+### #is_/same_as :: [Moroni.public](/_public/Earth/Continent/Africa/Africa~East/Comoros/City/Moroni.public.md) 
+
+### #is_/same_as :: [Moroni.internal](/_internal/Earth/Continent/Africa/Africa~East/Comoros/City/Moroni.internal.md) 
+
+### #is_/same_as :: [Moroni.protect](/_protect/Earth/Continent/Africa/Africa~East/Comoros/City/Moroni.protect.md) 
+
+### #is_/same_as :: [Moroni.private](/_private/Earth/Continent/Africa/Africa~East/Comoros/City/Moroni.private.md) 
+
+### #is_/same_as :: [Moroni.personal](/_personal/Earth/Continent/Africa/Africa~East/Comoros/City/Moroni.personal.md) 
+
+### #is_/same_as :: [Moroni.secret](/_secret/Earth/Continent/Africa/Africa~East/Comoros/City/Moroni.secret.md)
+

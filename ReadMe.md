@@ -133,10 +133,4 @@ Continent :: [[Africa]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Comoros|Comoros]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~East/Comoros.internal|Comoros.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~East/Comoros.protect|Comoros.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~East/Comoros.private|Comoros.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~East/Comoros.personal|Comoros.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~East/Comoros.secret|Comoros.secret]] 
+
