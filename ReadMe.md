@@ -1,39 +1,40 @@
 ---
 location:
-- -11.7
-- 43.25
+  - -11.7
+  - 43.25
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26938
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Comoros
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Comoros
-- Comoras
-- Comores
-- جزر القمر
-- 科摩罗
-- Коморские Острова
-- the Union of the Comoros
-- Comoros (the)
-- la Unión de las Comoras
-- Comoras (las)
+  - Comoros
+  - Comoras
+  - Comores
+  - جزر القمر
+  - 科摩罗
+  - Коморские Острова
+  - the Union of the Comoros
+  - Comoros (the)
+  - la Unión de las Comoras
+  - Comoras (las)
 Languages:
-- ar
-- fr-KM
+  - ar
+  - fr-KM
 ---
 
 
