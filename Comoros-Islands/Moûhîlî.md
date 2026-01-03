@@ -43,17 +43,17 @@ markerFolder: ./Moûhîlî/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Moûhîlî](/_Standards/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Moûhîlî.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Moûhîlî|Moûhîlî]] 
 
-### #is_/same_as :: [Moûhîlî.public](/_public/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Moûhîlî.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Moûhîlî.public|Moûhîlî.public]] 
 
-### #is_/same_as :: [Moûhîlî.internal](/_internal/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Moûhîlî.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Moûhîlî.internal|Moûhîlî.internal]] 
 
-### #is_/same_as :: [Moûhîlî.protect](/_protect/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Moûhîlî.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Moûhîlî.protect|Moûhîlî.protect]] 
 
-### #is_/same_as :: [Moûhîlî.private](/_private/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Moûhîlî.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Moûhîlî.private|Moûhîlî.private]] 
 
-### #is_/same_as :: [Moûhîlî.personal](/_personal/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Moûhîlî.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Moûhîlî.personal|Moûhîlî.personal]] 
 
-### #is_/same_as :: [Moûhîlî.secret](/_secret/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Moûhîlî.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Moûhîlî.secret|Moûhîlî.secret]] 
 

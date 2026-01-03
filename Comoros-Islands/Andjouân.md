@@ -44,17 +44,17 @@ markerFolder: ./Andjouân/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Andjouân](/_Standards/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Andjouân.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Andjouân|Andjouân]] 
 
-### #is_/same_as :: [Andjouân.public](/_public/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Andjouân.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Andjouân.public|Andjouân.public]] 
 
-### #is_/same_as :: [Andjouân.internal](/_internal/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Andjouân.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Andjouân.internal|Andjouân.internal]] 
 
-### #is_/same_as :: [Andjouân.protect](/_protect/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Andjouân.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Andjouân.protect|Andjouân.protect]] 
 
-### #is_/same_as :: [Andjouân.private](/_private/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Andjouân.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Andjouân.private|Andjouân.private]] 
 
-### #is_/same_as :: [Andjouân.personal](/_personal/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Andjouân.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Andjouân.personal|Andjouân.personal]] 
 
-### #is_/same_as :: [Andjouân.secret](/_secret/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Andjouân.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Andjouân.secret|Andjouân.secret]] 
 

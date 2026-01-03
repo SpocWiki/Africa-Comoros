@@ -42,17 +42,17 @@ markerFolder: ./Andjazîdja/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Andjazîdja](/_Standards/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Andjazîdja.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Andjazîdja|Andjazîdja]] 
 
-### #is_/same_as :: [Andjazîdja.public](/_public/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Andjazîdja.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Andjazîdja.public|Andjazîdja.public]] 
 
-### #is_/same_as :: [Andjazîdja.internal](/_internal/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Andjazîdja.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Andjazîdja.internal|Andjazîdja.internal]] 
 
-### #is_/same_as :: [Andjazîdja.protect](/_protect/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Andjazîdja.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Andjazîdja.protect|Andjazîdja.protect]] 
 
-### #is_/same_as :: [Andjazîdja.private](/_private/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Andjazîdja.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Andjazîdja.private|Andjazîdja.private]] 
 
-### #is_/same_as :: [Andjazîdja.personal](/_personal/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Andjazîdja.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Andjazîdja.personal|Andjazîdja.personal]] 
 
-### #is_/same_as :: [Andjazîdja.secret](/_secret/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Andjazîdja.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Comoros/Comoros-Islands/Andjazîdja.secret|Andjazîdja.secret]] 
 
