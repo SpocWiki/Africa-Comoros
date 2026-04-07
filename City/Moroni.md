@@ -18,22 +18,22 @@ SpocWebEntityId: 36591
 isDeleted: false
 confidential: public
 capital_of:
-  - "[[_Standards/WikiData/WD~Grande_Comore,244978]]"
-  - "[[_Standards/WikiData/WD~French_Madagascar,5501842]]"
-  - "[[_Standards/WikiData/WD~Territory_of_the_Comores,16679352]]"
-  - "[[_Standards/WikiData/WD~Comoros,970]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Grande_Comore,244978]]"
+  - "[[_Standards/WikiData/WD~Grande_Comore,244978|WD~Grande_Comore,244978]]"
+  - "[[_Standards/WikiData/WD~French_Madagascar,5501842|WD~French_Madagascar,5501842]]"
+  - "[[_Standards/WikiData/WD~Territory_of_the_Comores,16679352|WD~Territory_of_the_Comores,16679352]]"
+  - "[[_Standards/WikiData/WD~Comoros,970|WD~Comoros,970]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Grande_Comore,244978|WD~Grande_Comore,244978]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~federal_capital,257391]]"
-  - "[[_Standards/WikiData/WD~human_settlement,486972]]"
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
-category_for_people_born_here: "[[_Standards/WikiData/WD~Q13335962,13335962]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~federal_capital,257391|WD~federal_capital,257391]]"
+  - "[[_Standards/WikiData/WD~human_settlement,486972|WD~human_settlement,486972]]"
+  - "[[_Standards/WikiData/WD~big_city,1549591|WD~big_city,1549591]]"
+  - "[[_Standards/WikiData/WD~city,515|WD~city,515]]"
+category_for_people_born_here: "[[_Standards/WikiData/WD~Q13335962,13335962|WD~Q13335962,13335962]]"
+described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 coordinate_location: Point(43.253611111 -11.703611111)
-country: "[[_Standards/WikiData/WD~Comoros,970]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Indian_Ocean,1239]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+03_00,6760]]"
+country: "[[_Standards/WikiData/WD~Comoros,970|WD~Comoros,970]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Indian_Ocean,1239|WD~Indian_Ocean,1239]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+03_00,6760|WD~UTC+03_00,6760]]"
 area: 30
 elevation_above_sea_level: 29
 population: 85400
